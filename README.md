@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/Raphaenn/RaphaelNeves/master/Artboard.png.png "Header")]
+[![Header](https://github.com/Raphaenn/RaphaelNeves/blob/master/header.png "Header")]
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/raphaenn/RaphaelNeves/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/Raphaenn/RaphaelNeves/blob/master/wave.gif" width="30px">
 
 My name is Raphael Neves and I'm a full stack developer. I'm from Rio de Janeiro, living in Brazil. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
