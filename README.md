@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://github.com/Raphaenn/RaphaelNeves/blob/master/wave.gif" width="30px">
 
-My name is Raphael Neves and I'm a full stack developer. I'm from Rio de Janeiro, living in Brazil. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I'm a passionate JavaScript engineer, currently focused on NodeJs and TypeScript. I'm from Rio de Janeiro, living in Brazil. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 Enthusiast of the best web & mobile development technologies.
 
