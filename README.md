@@ -26,15 +26,6 @@ Enthusiast of the best web & mobile development technologies.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raphaenn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rapha's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Raphaenn/Gobarber-TypeScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Raphaenn&repo=Gobarber-TypeScript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/Raphaenn/SocialApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Raphaenn&repo=SocialApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
